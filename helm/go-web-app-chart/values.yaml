@@ -8,7 +8,7 @@ image:
   repository: volley123/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10056722216"
+  tag: "10063567795"
 
 ingress:
   enabled: false
