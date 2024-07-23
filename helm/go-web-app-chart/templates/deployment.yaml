@@ -19,3 +19,4 @@ spec:
         image: volley123/go-web-app:{{ .Values.image.tag }}
         ports:
         - containerPort: 8080
+        
